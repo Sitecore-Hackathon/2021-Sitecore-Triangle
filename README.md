@@ -16,7 +16,7 @@ The **Sitecore Triangle** team picked-up the above mentioned topic and used foll
 * **[Sitecore PowerShell Extensions 6.2.0.34182](https://doc.sitecorepowershell.com/)**
 
 ## Index:
-1. [Module Purpose](https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle#module-purpose)
+1. [Module Purpose](#module-purpose)
    - [Features include](#features-include)
    - [Limitations](#limitations)
 2. [Module Sitecore Hackathon Category](#module-sitecore-hackathon-category)
