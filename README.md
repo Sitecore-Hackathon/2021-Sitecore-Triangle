@@ -15,6 +15,12 @@ The **Sitecore Triangle** team picked-up the above mentioned topic and used foll
 * **[Sitecore Experience Platform 10.1](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/101/Sitecore_Experience_Platform_101.aspx/)**
 * **[Sitecore PowerShell Extensions 6.2.0.34182](https://doc.sitecorepowershell.com/)**
 
+## Index:
+1. [Module Purpose](https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle#module-purpose)
+   - [Features include](#features-include)
+   - [Limitations](#limitations)
+     - Second nested list item
+
 ## Module Purpose
 The purpose of **Display Help Section Field Details** is to list down **Help Section** field details like Long description, Short description and Help link if particular item template already set those fields.
 
