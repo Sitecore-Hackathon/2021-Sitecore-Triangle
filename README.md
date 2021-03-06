@@ -47,19 +47,20 @@ The idea here is to use **[Sitecore PowerShell Extensions](https://doc.sitecorep
 * Listing of Site nodes to process the underneath items
 
 ## Module Sitecore Hackathon Category
-**Sitecore Hackathon Website – This idea is sooo meta! Several years have passed with the current version and it’s in need of a refresh.**
+**Best use of SPE to help Content authors and Marketers**
 
 ## How does the end user use the Module?
 #### Pre-requisites
 This module depends on the following
-* Sitecore 9.3 Initial Release
+* Sitecore Experience Platform 10.1
 * Sitecore Powershell Extensions (SPE)
-* Sitecore Experience Accelerator
 
 #### Configuration/Setup
-* Download the Sitecore Package (https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/SitecoreHackathon2020.zip) which contains:
-    * Required Template
-    * Required Content Tree items
+* Download the Sitecore Package (https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-1.0.zip) which contains:
+    * Required Script which created in **Master DB** at **/sitecore/system/Modules/PowerShell/Script Library/Sitecore Triangle/Content Editor/Context Menu/Display Help Section Field Details**
+     <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-2.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" />
+    * Required Content Editor Content Menu Item created in **Core DB** at **/sitecore/system/Modules/PowerShell/Script Library/Sitecore Triangle/Content Editor/Context Menu/Display Help Section Field Details**
+         <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-3.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" />
 * Install the Downloaded Sitecore Package
 * After installation you will see following items in the content tree:
     * **Site Templates:** <br/>
