@@ -19,7 +19,16 @@ The **Sitecore Triangle** team picked-up the above mentioned topic and used foll
 1. [Module Purpose](https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle#module-purpose)
    - [Features include](#features-include)
    - [Limitations](#limitations)
-     - Second nested list item
+2. [Module Sitecore Hackathon Category](#module-sitecore-hackathon-category)
+3. [How does the end user use the Module?](#how-does-the-end-user-use-the-module)
+   - [Pre-requisites](#pre-requisites)
+   - [Configuration/Setup](#configurationsetup)
+4. [Screenshots](#screenshots)
+   - [Access Script on any item in Content tree by right click](#access-script-on-any-item-in-content-tree-by-right-click)
+   - [SPE Dialog box](#once-click-on-the-display-help-section-field-details-it-will-open-dialog-box-to-select-site-node-from-the-content-tree)
+   - [Select the Site node](#select-the-site-node-and-click-on-execute-button-it-will-open-help-section-field-listing)
+5. [Sitecore Powershell Script](#sitecore-powershell-script--display-help-section-field-details)
+6. [Video](#video)
 
 ## Module Purpose
 The purpose of **Display Help Section Field Details** is to list down **Help Section** field details like Long description, Short description and Help link if particular item template already set those fields.
