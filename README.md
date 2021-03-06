@@ -8,7 +8,6 @@ Topic: **Best use of SPE to help Content authors and Marketers.**
 
 Video Link: **[Sitecore Hackathon >> 2021 Sitecore Triangle Video](https://drive.google.com/file/d/1AAE7gWBb5Zql75QrpNLbU1mexKAMzSID/view?usp=drivesdk)**
 
-Sitecore Powershell Script >> [**Display Help Section Field Details**](https://gist.github.com/AmitKumar-AK/6a01489c357393390bbba5168d7bf611)
 
 ---
 
@@ -29,8 +28,9 @@ The **Sitecore Triangle** team picked-up the above mentioned topic and used foll
    - [Access Script on any item in Content tree by right click](#access-script-on-any-item-in-content-tree-by-right-click)
    - [SPE Dialog box](#once-click-on-the-display-help-section-field-details-it-will-open-dialog-box-to-select-site-node-from-the-content-tree)
    - [Select the Site node](#select-the-site-node-and-click-on-execute-button-it-will-open-help-section-field-listing)
-5. [Sitecore Powershell Script](#sitecore-powershell-script--display-help-section-field-details)
-6. [Video](#video)
+5. [Download the Sitecore Package](https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-1.0.zip)
+6. [Sitecore Powershell Script](#sitecore-powershell-script--display-help-section-field-details)
+7. [Video](#video)
 
 ## Module Purpose
 The purpose of **Display Help Section Field Details** is to list down **Help Section** field details like Long description, Short description and Help link if particular item template already set those fields.
