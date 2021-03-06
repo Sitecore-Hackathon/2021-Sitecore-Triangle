@@ -7,7 +7,7 @@ Sitecore Hackathon 2021 entry by Team **Sitecore Triangle**
 
 Topic: **Best use of SPE to help Content authors and Marketers.**
 
-Video Link:
+Video Link: **[Sitecore Hackathon >> 2021 Sitecore Triangle Video](https://drive.google.com/file/d/1AAE7gWBb5Zql75QrpNLbU1mexKAMzSID/view?usp=drivesdk)**
 
 ---
 
@@ -63,37 +63,26 @@ This module depends on the following
          <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-3.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" />
 * Install the Downloaded Sitecore Package
 * After installation you will see following items in the content tree:
-    * **Site Templates:** <br/>
-      <img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Sitecore SXA Site Templates.png" /><br />
-    * **Site:** <br/>
-      <img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Sitecore SXA Site.png" /><br />
-    * **Media Library:** <br/>
-      <img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Sitecore SXA Media Library.png" /><br />
-    * **Page/Partial Design:** <br/>
-      <img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Sitecore SXA Page-Partial Design.png" /><br />
-* Each Year following configuration/item needs to be created/changes:
-    * Create the New Year item at **/sitecore/content/Sitecore/Hackathon/HackathonTeams/** like **2021**
-    * Inside new year folder i.e. 2021 (which created above), create **Judge Folder** and then create required **Judge** items.
-    * Inside new year folder i.e. 2021 (which created above), create **Participant Folder**.
-    * Copy path of newly created **Participant Folder** and goto **/sitecore/content/Sitecore/Hackathon/Data/HackathonTeam/HackathonRegistration** and past the url. This url used **Custom Hackathon Registration Form** to store the participant details.
+    * **Master DB >> Sitecore Powershell Extensions (SPE) Script:** <br/>
+      <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-2.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
+    * **Core DB >> Content Editor >> Context Menu Item:** <br/>
+         <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-3.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" />
     
    
 
 ## Screenshots
-#### Home Page
-<img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/HomePage.jpg" /><br />
+#### Access Script on any item in Content tree by right click
+         <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-4.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
 
-#### Hackathon Registration Form
-<img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Hackathon-RegistrationForm.png" /><br />
+#### Once Click on the **Display Help Section Field Details**, it will open dialog box to select Site node from the Content tree
+<img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-5.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
 
-#### Listing of Hackathon's
-<img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Hackathon-Listing.png" /><br />
+#### Select the Site node and click on **Execute** button, it will open Help Section field listing
+<img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-6.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
 
-#### Hackathon Details
-<img src="https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/Hackathon-Details.png" /><br />
 
 ## Video
 
-[Download video](https://drive.google.com/file/d/1yxxlIfTJO9idTdkE40c6QIHNuVHTVa_V/view?usp=drivesdk).
+[Download video](https://drive.google.com/file/d/1AAE7gWBb5Zql75QrpNLbU1mexKAMzSID/view?usp=drivesdk).
 
-[![Sitecore Hackathon Video Embedding Alt Text](https://github.com/Sitecore-Hackathon/2020-Sitecore-Triangle/blob/master/documentation/VideoThubnailImage.jpg)](https://drive.google.com/file/d/1yxxlIfTJO9idTdkE40c6QIHNuVHTVa_V/view?usp=drivesd)
+[![Sitecore Hackathon >> 2021 Sitecore Triangle Video Embedding Alt Text](https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-7.png)](https://drive.google.com/file/d/1AAE7gWBb5Zql75QrpNLbU1mexKAMzSID/view?usp=drivesdk)
