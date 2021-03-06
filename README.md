@@ -8,6 +8,8 @@ Topic: **Best use of SPE to help Content authors and Marketers.**
 
 Video Link: **[Sitecore Hackathon >> 2021 Sitecore Triangle Video](https://drive.google.com/file/d/1AAE7gWBb5Zql75QrpNLbU1mexKAMzSID/view?usp=drivesdk)**
 
+Sitecore Powershell Script >> [**Display Help Section Field Details**](https://gist.github.com/AmitKumar-AK/6a01489c357393390bbba5168d7bf611)
+
 ---
 
 The **Sitecore Triangle** team picked-up the above mentioned topic and used following products/technologies:
