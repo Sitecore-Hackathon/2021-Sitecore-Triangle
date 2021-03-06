@@ -72,7 +72,7 @@ This module depends on the following
 
 ## Screenshots
 #### Access Script on any item in Content tree by right click
-         <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-4.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
+<img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-4.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
 
 #### Once Click on the **Display Help Section Field Details**, it will open dialog box to select Site node from the Content tree
 <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-5.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
@@ -80,6 +80,8 @@ This module depends on the following
 #### Select the Site node and click on **Execute** button, it will open Help Section field listing
 <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle-6.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;" /><br />
 
+## Sitecore Powershell Script >> **Display Help Section Field Details**
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
 
 ## Video
 
