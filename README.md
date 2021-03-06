@@ -25,40 +25,26 @@ This script will be present in **Context Menu** as **Display Help Section Fields
 
 <img src="https://github.com/Sitecore-Hackathon/2021-Sitecore-Triangle/blob/main/docs/images/2021-Sitecore-Triangle%20-1.png" alt="2021-Sitecore-Triangle" title="2021-Sitecore-Triangle" style="max-width:100%;">
 
-The **Display Help Section Field Details** script will be avaliable to all items in content tree and you can execute it from any item, and you can select particular site node from the content tree.
-template user interactive and not easy to maintain. The idea here is to use **[Sitecore Experience Accelerator](https://doc.sitecore.com/users/sxa/17/sitecore-experience-accelerator/en/introducing-sitecore-experience-accelerator.html)** module to:
-* Help content teams create, edit, and deploy web content across channels in less time
-* Easily change page components using drag-and-drop functionality
-* Enjoy a CMS with WYSIWYG (What You See Is What You Get) editing
-* Reuse pre-built components, templates, and layouts
-* Quickly get your websites up and running
-* Greatly reduce the time needed for custom development
+The **Display Help Section Field Details** script will be *avaliable to all items in content tree and you can execute it from any item, and you can select particular site node from the content tree*.
+
+The idea here is to use **[Sitecore PowerShell Extensions](https://doc.sitecorepowershell.com/)** module to:
+* Help Content Authors to identify the details about all Help Section fields
+* With this **Display Help Section Field Details** script *Content Authors can easily identify that which Custom Template field not contains the values in Help Section Fields*
+* At any given point, Content Author can use **Display Help Section Field Details** script from **Context Menu >> Display Help Section Fields**
+* This **[Sitecore PowerShell Extensions](https://twitter.com/hashtag/SCHackathon)** can be reuse on any Sitecore instance
+* Quickly get listing of Help Section fields of your websites
+* Greatly reduce the time needed to manually go to each custom template and verify
 #### Features include:
-* Sample Site
-* **Home Page** will provide:
-    * Promo/Hero Banner: Content Author can setup rich content
-    * Listing of Last 03 Hackathon events
-* Content Author can create **Judge details (rich text)** for every year Hackathon event
-* Content Author can manage the **Hero banner/Promo Content** for the Home Page
-* End User can submit the **Hackathon registration request** via **Custom Hackathon Registration Form**
-* **Hackathon Registration Form** having **time limit validation** for Hackathon registration and after that user will see the custom message and this message can be setup by the Content Author
-* Once **Hackathon Registration Form** submitted by the End user then **Thank You message** would be visible to user and this message can be setup by the Content Author
-* After submission of **Hackathon Registration Form** team details would be stored in the **MASTER DB** with this Content Author/Admin can review the content and publish after validaiton to **WEB DB**
-* End user can view **listing of Hackathon's**
-* Each year **Hackathon** will provide:
-    * Hackathon Details: Content Author can setup rich content
-    * Listing of Teams participating in Hackathon
-    * Listing of Judge details (rich text) in Hackathon
+* Sitecore Powershell Script
+* **Display Help Section Field Details** scrip will provide:
+    * Selection of Website node from the Content Tree
+    * Listing of Help Section Fields of Custom Templates
+* With **[Sitecore PowerShell Extensions](https://doc.sitecorepowershell.com/)** OOTB functionality you can export content to CSV, JSON, etc.
+* Content Author can access SPE scripts from any item in Content Tree
 
 #### Limitations:
-* No valiation on Form fields
-* All fields are mandatory currently
-* No autmation on publishing
-* No registration confirmation email
-* No Personalization
-* Currently each Hackathon page displaying listing of Year 2020 Participants only, and this can be avoided by creating custom query and use in the PageList component
-* Site User Interface: We have tried our best to on UI part but can't compete with UI developer :)
-
+* Not accessing the Datasource item from the page renderings
+* Listing of Site nodes to process the underneath items
 
 ## Module Sitecore Hackathon Category
 **Sitecore Hackathon Website – This idea is sooo meta! Several years have passed with the current version and it’s in need of a refresh.**
